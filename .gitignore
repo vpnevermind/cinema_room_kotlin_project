@@ -1,0 +1,42 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager (Kotlin)/*
+!/Cinema Room Manager (Kotlin)/task/
+/Cinema Room Manager (Kotlin)/task/*
+!/Cinema Room Manager (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/For loop and lists/Right Rotation/out/
+/Topics/For loop and lists/Right Rotation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/Introduction to collections/Sorting a list of positive and negative integers/out/
+/Topics/Introduction to collections/Sorting a list of positive and negative integers/out/production/classes/
+/Topics/List/Even numbers/out/
+/Topics/List/Even numbers/out/production/classes/
+/Topics/Loops  repeat statement/Calculate the sum of natural numbers up to a given limit/out/
+/Topics/Loops  repeat statement/Calculate the sum of natural numbers up to a given limit/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
+/Topics/Standard input with Java Scanner/Read and print/out/
+/Topics/Standard input with Java Scanner/Read and print/out/production/classes/
+/Topics/When expression/FTN-Numbers/out/
+/Topics/When expression/FTN-Numbers/out/production/classes/
+/Topics/When expression/Harry Potter/out/
+/Topics/When expression/Harry Potter/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
